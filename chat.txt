@@ -10,5 +10,9 @@ Julol: Reply
 >>>>>>> origin/julol
 =======
 Julol: Halu
+<<<<<<< HEAD
 >>>>>>> origin/julol
 rica: hoy ano na`
+=======
+Julol: Ano ba naman.
+>>>>>>> origin/julol
