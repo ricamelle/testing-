@@ -5,9 +5,13 @@ rica: mas pangit ka
 ivan: k
 rica: pikon
 <<<<<<< HEAD
+<<<<<<< HEAD
 qweqwe
 =======
 ivan: hindi noh
 mau: anong nangyayare?
 mart: hala
 rica: halu
+=======
+julol: pogi ako.
+>>>>>>> julol
