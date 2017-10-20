@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 start
 =======
-Julol: Hi
+Julol
+>>>>>>> origin/julol
+=======
+Julol: Reply
 >>>>>>> origin/julol
