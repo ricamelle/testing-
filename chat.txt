@@ -15,4 +15,8 @@ Julol: Halu
 rica: hoy ano na`
 =======
 Julol: Ano ba naman.
+<<<<<<< HEAD
+>>>>>>> origin/julol
+=======
+Julol: di ko na alam.
 >>>>>>> origin/julol
