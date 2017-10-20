@@ -6,4 +6,8 @@ Julol
 >>>>>>> origin/julol
 =======
 Julol: Reply
+<<<<<<< HEAD
+>>>>>>> origin/julol
+=======
+Julol: Halu
 >>>>>>> origin/julol
