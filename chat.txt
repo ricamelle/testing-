@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Rica: Start.
 =======
 Julol: Reply
@@ -8,3 +9,6 @@ Julol: di ko na alam.
 Julol: Ggwp.
 >>>>>>> julol
 Rica: Merge gianne.
+=======
+Gianne: Hello there.
+>>>>>>> gichuu
