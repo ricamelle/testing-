@@ -11,4 +11,8 @@ Julol: Ggwp.
 Rica: Merge gianne.
 =======
 Gianne: Hello there.
+<<<<<<< HEAD
+>>>>>>> gichuu
+=======
+Gianne: Mema
 >>>>>>> gichuu
