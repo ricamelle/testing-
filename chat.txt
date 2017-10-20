@@ -10,4 +10,4 @@ qweqwe
 ivan: hindi noh
 mau: anong nangyayare?
 mart: hala
->>>>>>> 8fe8645153762101af281d0b1f851af211302f81
+rica: halu
