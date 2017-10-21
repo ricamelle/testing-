@@ -1,18 +1,9 @@
-<<<<<<< HA
-<<<<<<< HEAD
 Rica: Start.
-=======
 Julol: Reply
 Julol: Halu
 Julol: Ano ba naman.
 Julol: di ko na alam.
 Julol: Ggwp.
->>>>>>> julol
 Rica: Merge gianne.
-=======
 Gianne: Hello there.
-<<<<<<< HEAD
->>>>>>> gichuu
-=======
 Gianne: Mema
->>>>>>> gichuu
